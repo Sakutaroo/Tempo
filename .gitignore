@@ -1,0 +1,98 @@
+# Gradle
+.gradle/
+build/
+*/build/
+gradle-app.setting
+
+# Local properties
+local.properties
+
+# Log/OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/httpRequests/
+.idea/codeStyles/
+.idea/navigation.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+.idea/render.experimental.xml
+.idea/misc.xml
+.idea/tasks.xml
+
+# Android Studio captures & temp
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+
+# Built application files
+*.apk
+*.aar
+*.aab
+*.ap_
+output.json
+app/release/output.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. Firebase, APIs)
+google-services.json
+app/google-services.json
+
+# Proguard/R8
+proguard-rules.pro
+proguard/
+
+# Android Profiling
+*.hprof
+
+# Android NDK
+ndkBuild/
+
+# ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/readme.md
+
+# Freeline (build tool)
+freeline.py
+freeline/
+freeline_project_description.json
+
+# Version Control
+vcs.xml
