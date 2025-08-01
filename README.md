@@ -16,7 +16,7 @@ A mobile application designed to help users stay focused, track their concentrat
 - **Statistics**: Component displaying detailed insights from past sessions.
 - **Notifications**: Persistent notifications to manage sessions, available even when the app is in the background.
 - **User Profile**: Access to additional data and statistics for each user.
-- 
+
 ## Tech Stack
 - **Frontend**: Jetpack Compose
 - **Backend**: Supabase (authentication and database)
