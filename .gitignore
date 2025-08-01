@@ -45,7 +45,8 @@ captures/
 *.aab
 *.ap_
 output.json
-app/release/output.json
+app/release/
+app/debug/
 
 # Keystore files
 *.jks

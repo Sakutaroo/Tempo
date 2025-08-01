@@ -23,7 +23,7 @@ A mobile application designed to help users stay focused, track their concentrat
 - **Motion Detection**: Accelerometer-based movement tracking
 - **Navigation**: Compose Navigation
 - **Notifications**: Integrated with system control centre
-- 
+
 ## Required Permissions
 - Access to the accelerometer
 - Notification permissions
